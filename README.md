@@ -42,6 +42,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Cureño-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrahamcureno/)
 [![GitHub](https://img.shields.io/badge/GitHub-acureno85-black?style=for-the-badge&logo=github)](https://github.com/acureno85)
-[![Email](https://img.shields.io/badge/Email-abraham.cureno%40outlook.com-red?style=for-the-badge&logo=gmail)](mailto:abraham.cureno@outlook.com)
+[![Email](https://img.shields.io/badge/Email-abraham.cureno%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abraham.cureno@gmail.com)
 
 ---
